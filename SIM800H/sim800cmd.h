@@ -10,7 +10,7 @@ by zcl
 #define sim800cmd_h
 
 #include "Arduino.h"
-#include <inttypeds.h>
+#include <inttypes.h>
 #include <stdio.h>
 #include "HardwareSerial.h"
 #include "atparameter.h"
